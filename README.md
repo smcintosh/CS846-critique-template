@@ -24,4 +24,4 @@ Your assessment of the significance of the work should be described here. Which 
 
 ## Verifiability
 
-To what extent can the work be externally verified and replicated? Provide a short assessment of what has been provided by the authors to aid in replication of their work (e.g., detailed explanantions that would be straightforward to implement, raw data, processed data, data processing scripts, experimental analysis scripts).
+To what extent can the work be externally verified and replicated? Provide a short assessment of what has been provided by the authors to aid in replication of their work (e.g., detailed explanations that would be straightforward to implement, raw data, processed data, data processing scripts, experimental analysis scripts).
