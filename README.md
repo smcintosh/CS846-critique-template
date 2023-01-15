@@ -1,6 +1,6 @@
 # Overview
 
-Provide a summary list of the pros (+) and cons (-) that you elaborate on in the Detailed Remarks section.
+Provide a summary list of the pros (+) and cons (-) that you elaborate on in the sections below.
 
 # Soundness
 
